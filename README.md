@@ -27,7 +27,7 @@
 ###
 
 <h3 align="left">👩🏻‍💻  Sobre mim</h3>
-<p>Sou Guilherme, um estudante de Redes de Computadores e fascinado por programação , buscando desenvolver meus conhecimentos e aprender novas tecnologias.</p>
+<p>Estudante de Redes de Computadores, buscando desenvolver meus conhecimentos em programação e aprender novas tecnologias.</p>
 
 ###
 

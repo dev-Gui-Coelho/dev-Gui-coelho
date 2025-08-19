@@ -65,7 +65,7 @@
 | Categoria | Habilidades e Certificações |
 | --- | --- |
 | **Redes, Infraestrutura e Segurança** | [![Intro to Networks](https://images.credly.com/size/100x100/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/72dc5d5a-c5d5-4d27-ad17-b89a90c52562/public_url) [![SRWE](https://images.credly.com/size/100x100/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](https://www.credly.com/badges/8f1526b3-4b81-472a-afeb-c3c1e481ad95/public_url)  |
-| **Habilidades Comportamentais (Soft Skills)** | `Trabalho em Equipe` `Resolução de Problemas` `Organização` `Gerenciamento de Tempo`|
+| **Soft Skills** | `Trabalho em Equipe` `Resolução de Problemas` `Organização` `Gerenciamento de Tempo`|
 | **Idiomas** | `Português (Nativo)` `Inglês (Básico/Intermediário)` |
 
 
